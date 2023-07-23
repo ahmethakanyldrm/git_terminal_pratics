@@ -6,8 +6,3 @@ void main(List<String> args) {
   print('Hello World');
 }
 ```
-Hello everyone 
-
-@ahmethakanyldrm
-selam dostum ...
-
