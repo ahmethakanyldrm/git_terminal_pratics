@@ -8,3 +8,5 @@ void main(List<String> args) {
 ```
 Hello everyone 
 selamlar 
+
+selamlar 2 3 4 5 
